@@ -1,5 +1,8 @@
 # NOVA//AI Studio — Responsive Landing Page
 
+**Student:** Iqra Iqbal
+**GitHub:** Iqralqbal555
+
 ## 1. Project overview
 
 **NOVA//AI Studio** is an original, responsive landing page for a fictional cutting-edge digital creative service. The studio offers photorealistic portraits, cinematic animation and 3D avatar systems for modern brands and creators.
@@ -11,10 +14,10 @@
 - Product and campaign teams looking for distinctive digital visuals
 
 ## 2. Live deployed URL
-
-> https://iqraiqbal555.github.io/nova-ai-studio/
-
-The assignment requires a working public deployment. This local project is ready to deploy to Vercel, GitHub Pages, or another static host.
+>repository URL
+>https://github.com/IqraIqbal555/nova-ai-studio.git
+>website url
+> https://iqraiqbal555.github.io/nova-ai
 
 ## 3. Features
 
@@ -146,17 +149,13 @@ No JavaScript is used anywhere in the project.
 4. Save.
 5. Copy the generated public URL into section 2.
 
-## 8. Screenshots
-
-Add the final deployed screenshots here before submitting:
+## 8. Screenshot 
 
 ### Desktop view
 `![Desktop screenshot](screenshots/desktop.png)`
 
 ### Mobile view
 `![Mobile screenshot](screenshots/mobile.png)`
-
-Create a `screenshots` folder and place the two final screenshots inside it.
 
 ## 9. Compliance checklist
 
@@ -175,10 +174,6 @@ Create a `screenshots` folder and place the two final screenshots inside it.
 - [x] Services / tier section
 - [x] No price values or currency symbols
 - [x] Public GitHub repository ready
-- [ ] Live public deployment URL
-- [ ] Final desktop screenshot
-- [ ] Final mobile screenshot
-
-## 10. Submission
-
-Submit **only the public GitHub repository link** to the teacher's portal, as required by the assignment.
+- [x] Live public deployment URL
+- [x] Final desktop screenshot
+- [x] Final mobile screenshot
