@@ -12,10 +12,7 @@
 
 ## 2. Live deployed URL
 
-> **Add your live URL here after deployment.**
->
-> Example:
-> `https://your-project-name.vercel.app`
+> https://iqraiqbal555.github.io/nova-ai-studio/
 
 The assignment requires a working public deployment. This local project is ready to deploy to Vercel, GitHub Pages, or another static host.
 
