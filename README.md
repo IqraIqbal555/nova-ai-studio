@@ -16,8 +16,9 @@
 ## 2. Live deployed URL
 >repository URL
 >https://github.com/IqraIqbal555/nova-ai-studio.git
+>
 >website url
-> https://iqraiqbal555.github.io/nova-ai
+> https://iqraiqbal555.github.io/nova-ai-studio/
 
 ## 3. Features
 
@@ -152,10 +153,10 @@ No JavaScript is used anywhere in the project.
 ## 8. Screenshot 
 
 ### Desktop view
-`![Desktop screenshot](screenshots/desktop.png)`
+`![Desktop ](desktop.png)`
 
 ### Mobile view
-`![Mobile screenshot](screenshots/mobile.png)`
+`![Mobile](mobile.png)`
 
 ## 9. Compliance checklist
 
